@@ -1,0 +1,50 @@
+Michael Dratch
+Jason Barnick
+Jonah Andermin
+
+10/6/2023
+
+Project 2 Retrospective
+
+1. what went well
+	On this project we did a good job of managing our time. 
+	We created a roadmap of the different intermediate goals 
+	how how long each step would take. We were pretty successful 
+	at keeping to this schedule and piortizing the most imporant 
+	tasks. We also did well at distributing work so that each 
+	group member could focus on tasks that aligned with thier skills.
+	
+2. what did not go well
+	We had challenges coming to agreement on the goals of each 
+	pipeline layer. In the beginning of the project we did not 
+	have a totally aligned understanding of the purpose and structre 
+	of the three data layers. After discussion and a lot of diagramming 
+	we were able to come to agreement on a schema for each layer that 
+	fit the overall project goals. 
+
+	Also, during our implementation, we struggled to fully parallelize 
+	and optimize our workload. There seemed to be tasks the could run 
+	in parellel but were being run sequentially. We spent a lot of time 
+	trying to optimize expensive transformations. In the future we hope 
+	that with more experience and understanding of complex spark transformation 
+	we would be able to create more effiecient solutions.
+	
+3. what you could imporive on
+	Generally we feel like we could have gained a deeper understanding into 
+	the meaning and structure of the data. There were parts of the data which 
+	we did not make use of in a meaningful way. A deeper understanding would 
+	have allowed us to better focus on the most significant parts of the data.
+	Additionally, there were times in the project where we spent too much time 
+	trying to solve specific problems in our pipeline. In future projects we 
+	would like to quickly move on from specific problems that arnt essential 
+	to the overall goals of the project given the short time frame.
+
+4. General comments
+	We felt that the large scope of this project allowed for many different types 
+	of solutions. Out limited experience in data modeling made it difficult to narrow 
+	in on the best schema for this data and use case. We feel like narrowing in on 
+	more specific requiremnts would have been helpful in guiding our project.
+
+5. What we learned
+	This project gave a a much deeper practical understanding of how a data pipeline 
+	in constructed, as well a stronger understanding of the features of spark and Databricks.
